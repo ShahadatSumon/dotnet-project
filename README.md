@@ -1,2 +1,0 @@
-# dotnet-project
-intern practice
